@@ -26,4 +26,4 @@ def tunnel_path():
         print("The path gets hilly, but after descending the last hill, you exit the forest!!")
         around_tunnel_choice()
 
-# Include other paths similarly...
+
